@@ -1,0 +1,10 @@
+[Mulheres]
+Ana=24,55
+Ines=30,60
+Sofia=18,49
+Carla=44,64
+
+[Homens]
+Joao=20,75
+Tiago=55,80
+Quim=59,69
